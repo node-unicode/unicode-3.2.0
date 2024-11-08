@@ -1297,11 +1297,6 @@ require('@unicode/unicode-3.2.0/Special_Casing/Lowercase--az/code-points.js').ge
 require('@unicode/unicode-3.2.0/Special_Casing/Lowercase--az/symbols.js'); // lookup map from symbol to symbol(s)
 require('@unicode/unicode-3.2.0/Special_Casing/Lowercase--az/symbols.js').get(symbol);
 
-require('@unicode/unicode-3.2.0/Special_Casing/Lowercase--az--/code-points.js'); // lookup map from code point to code point or array of code points
-require('@unicode/unicode-3.2.0/Special_Casing/Lowercase--az--/code-points.js').get(codePoint);
-require('@unicode/unicode-3.2.0/Special_Casing/Lowercase--az--/symbols.js'); // lookup map from symbol to symbol(s)
-require('@unicode/unicode-3.2.0/Special_Casing/Lowercase--az--/symbols.js').get(symbol);
-
 require('@unicode/unicode-3.2.0/Special_Casing/Lowercase--az--After_Soft_Dotted/code-points.js'); // lookup map from code point to code point or array of code points
 require('@unicode/unicode-3.2.0/Special_Casing/Lowercase--az--After_Soft_Dotted/code-points.js').get(codePoint);
 require('@unicode/unicode-3.2.0/Special_Casing/Lowercase--az--After_Soft_Dotted/symbols.js'); // lookup map from symbol to symbol(s)
@@ -1332,11 +1327,6 @@ require('@unicode/unicode-3.2.0/Special_Casing/Lowercase--tr/code-points.js').ge
 require('@unicode/unicode-3.2.0/Special_Casing/Lowercase--tr/symbols.js'); // lookup map from symbol to symbol(s)
 require('@unicode/unicode-3.2.0/Special_Casing/Lowercase--tr/symbols.js').get(symbol);
 
-require('@unicode/unicode-3.2.0/Special_Casing/Lowercase--tr--/code-points.js'); // lookup map from code point to code point or array of code points
-require('@unicode/unicode-3.2.0/Special_Casing/Lowercase--tr--/code-points.js').get(codePoint);
-require('@unicode/unicode-3.2.0/Special_Casing/Lowercase--tr--/symbols.js'); // lookup map from symbol to symbol(s)
-require('@unicode/unicode-3.2.0/Special_Casing/Lowercase--tr--/symbols.js').get(symbol);
-
 require('@unicode/unicode-3.2.0/Special_Casing/Lowercase--tr--After_Soft_Dotted/code-points.js'); // lookup map from code point to code point or array of code points
 require('@unicode/unicode-3.2.0/Special_Casing/Lowercase--tr--After_Soft_Dotted/code-points.js').get(codePoint);
 require('@unicode/unicode-3.2.0/Special_Casing/Lowercase--tr--After_Soft_Dotted/symbols.js'); // lookup map from symbol to symbol(s)
@@ -1361,11 +1351,6 @@ require('@unicode/unicode-3.2.0/Special_Casing/Titlecase--az/code-points.js'); /
 require('@unicode/unicode-3.2.0/Special_Casing/Titlecase--az/code-points.js').get(codePoint);
 require('@unicode/unicode-3.2.0/Special_Casing/Titlecase--az/symbols.js'); // lookup map from symbol to symbol(s)
 require('@unicode/unicode-3.2.0/Special_Casing/Titlecase--az/symbols.js').get(symbol);
-
-require('@unicode/unicode-3.2.0/Special_Casing/Titlecase--az--/code-points.js'); // lookup map from code point to code point or array of code points
-require('@unicode/unicode-3.2.0/Special_Casing/Titlecase--az--/code-points.js').get(codePoint);
-require('@unicode/unicode-3.2.0/Special_Casing/Titlecase--az--/symbols.js'); // lookup map from symbol to symbol(s)
-require('@unicode/unicode-3.2.0/Special_Casing/Titlecase--az--/symbols.js').get(symbol);
 
 require('@unicode/unicode-3.2.0/Special_Casing/Titlecase--az--After_Soft_Dotted/code-points.js'); // lookup map from code point to code point or array of code points
 require('@unicode/unicode-3.2.0/Special_Casing/Titlecase--az--After_Soft_Dotted/code-points.js').get(codePoint);
@@ -1397,11 +1382,6 @@ require('@unicode/unicode-3.2.0/Special_Casing/Titlecase--tr/code-points.js').ge
 require('@unicode/unicode-3.2.0/Special_Casing/Titlecase--tr/symbols.js'); // lookup map from symbol to symbol(s)
 require('@unicode/unicode-3.2.0/Special_Casing/Titlecase--tr/symbols.js').get(symbol);
 
-require('@unicode/unicode-3.2.0/Special_Casing/Titlecase--tr--/code-points.js'); // lookup map from code point to code point or array of code points
-require('@unicode/unicode-3.2.0/Special_Casing/Titlecase--tr--/code-points.js').get(codePoint);
-require('@unicode/unicode-3.2.0/Special_Casing/Titlecase--tr--/symbols.js'); // lookup map from symbol to symbol(s)
-require('@unicode/unicode-3.2.0/Special_Casing/Titlecase--tr--/symbols.js').get(symbol);
-
 require('@unicode/unicode-3.2.0/Special_Casing/Titlecase--tr--After_Soft_Dotted/code-points.js'); // lookup map from code point to code point or array of code points
 require('@unicode/unicode-3.2.0/Special_Casing/Titlecase--tr--After_Soft_Dotted/code-points.js').get(codePoint);
 require('@unicode/unicode-3.2.0/Special_Casing/Titlecase--tr--After_Soft_Dotted/symbols.js'); // lookup map from symbol to symbol(s)
@@ -1426,11 +1406,6 @@ require('@unicode/unicode-3.2.0/Special_Casing/Uppercase--az/code-points.js'); /
 require('@unicode/unicode-3.2.0/Special_Casing/Uppercase--az/code-points.js').get(codePoint);
 require('@unicode/unicode-3.2.0/Special_Casing/Uppercase--az/symbols.js'); // lookup map from symbol to symbol(s)
 require('@unicode/unicode-3.2.0/Special_Casing/Uppercase--az/symbols.js').get(symbol);
-
-require('@unicode/unicode-3.2.0/Special_Casing/Uppercase--az--/code-points.js'); // lookup map from code point to code point or array of code points
-require('@unicode/unicode-3.2.0/Special_Casing/Uppercase--az--/code-points.js').get(codePoint);
-require('@unicode/unicode-3.2.0/Special_Casing/Uppercase--az--/symbols.js'); // lookup map from symbol to symbol(s)
-require('@unicode/unicode-3.2.0/Special_Casing/Uppercase--az--/symbols.js').get(symbol);
 
 require('@unicode/unicode-3.2.0/Special_Casing/Uppercase--az--After_Soft_Dotted/code-points.js'); // lookup map from code point to code point or array of code points
 require('@unicode/unicode-3.2.0/Special_Casing/Uppercase--az--After_Soft_Dotted/code-points.js').get(codePoint);
@@ -1461,11 +1436,6 @@ require('@unicode/unicode-3.2.0/Special_Casing/Uppercase--tr/code-points.js'); /
 require('@unicode/unicode-3.2.0/Special_Casing/Uppercase--tr/code-points.js').get(codePoint);
 require('@unicode/unicode-3.2.0/Special_Casing/Uppercase--tr/symbols.js'); // lookup map from symbol to symbol(s)
 require('@unicode/unicode-3.2.0/Special_Casing/Uppercase--tr/symbols.js').get(symbol);
-
-require('@unicode/unicode-3.2.0/Special_Casing/Uppercase--tr--/code-points.js'); // lookup map from code point to code point or array of code points
-require('@unicode/unicode-3.2.0/Special_Casing/Uppercase--tr--/code-points.js').get(codePoint);
-require('@unicode/unicode-3.2.0/Special_Casing/Uppercase--tr--/symbols.js'); // lookup map from symbol to symbol(s)
-require('@unicode/unicode-3.2.0/Special_Casing/Uppercase--tr--/symbols.js').get(symbol);
 
 require('@unicode/unicode-3.2.0/Special_Casing/Uppercase--tr--After_Soft_Dotted/code-points.js'); // lookup map from code point to code point or array of code points
 require('@unicode/unicode-3.2.0/Special_Casing/Uppercase--tr--After_Soft_Dotted/code-points.js').get(codePoint);
