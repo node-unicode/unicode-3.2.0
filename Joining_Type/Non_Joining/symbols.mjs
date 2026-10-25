@@ -1,1 +1,3 @@
-export default ['\u0621','\u0674'];
+import ranges from './ranges.mjs';
+
+export default ranges.flatMap((r) => Array.from(r.values()));
